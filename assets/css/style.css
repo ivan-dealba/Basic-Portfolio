@@ -1,14 +1,21 @@
+#header-one {
+    width: 960px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #my-photo{
     display: block;
-    /* margin-left: auto; */
-    /* margin-right: auto; */
     width: 150px;
     float: left;
+    margin-right: 20px;
 }
 
 #my-name{
-    position: absolute;
-    top: 0px;
+    float: left;
+    margin-top: -8px;
+    margin-left: -8px;
     left: 360px;
     color: white;
     background: #4aaaa5;
@@ -39,4 +46,13 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    border: #dddddd solid 2px;
+    margin-top: 20px;
+    padding: 20px 40px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 30px;
 }
