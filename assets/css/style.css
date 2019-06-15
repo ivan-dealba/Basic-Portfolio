@@ -56,3 +56,8 @@ p {
     font-size: 20px;
     line-height: 30px;
 }
+
+.footer {
+    clear: both;
+    border-top: #4aaaa5 solid 8px;
+}
