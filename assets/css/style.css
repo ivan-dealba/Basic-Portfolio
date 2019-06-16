@@ -6,6 +6,10 @@
     margin-top: 20px;
 }
 
+.form-element {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
 
 #header-one {
     width: 960px;
