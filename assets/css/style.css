@@ -25,6 +25,13 @@ input[type=button], input[type=submit] {
     cursor: pointer;
 }
 
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 10px 0;
+    box-sizing: border-box;
+  }
+
 #header-one {
     width: 960px;
     display: block;
